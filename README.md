@@ -3,6 +3,7 @@ Here are the **descriptions of the programs**:
 1. B1.py: Uses AE+MLP approach
 2. MLP-B1.py: property predicts directly with the MLP without any feature transformation.
 3. Corr.py: Studies Pearson correlation between the latent space and the real features.
+4. train.dat: Training data for 1483 materials.
    
 **The directory Unknown-materials contains:**
 1. program U.py to predict to the hydrogen storage capacity for the materials from only features:
