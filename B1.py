@@ -1,3 +1,8 @@
+#This script transforms the original features to a latent 
+# represntation and then feeds to a 5-layer MLP
+# Satadeep Bhattacharjee
+# IKST, Bangalore
+#%%%%%%%%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
