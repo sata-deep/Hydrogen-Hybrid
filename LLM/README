@@ -1,1 +1,4 @@
-
+These scripts train your GPT-2 model and generate new materials using the trained model.
+The codes are based on:
+https://github.com/usccolumbia/mtransformer
+The codes have been modified for current purposes.
