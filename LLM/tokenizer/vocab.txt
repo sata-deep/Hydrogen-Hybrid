@@ -1,4 +1,4 @@
-# Tokens are now updated to include the hydrogen storgae values 
+# Tokens are now updated to include the hydrogen storage values (Satadeep, 2023)
 [PAD]
 [UNK]
 [CLS]
