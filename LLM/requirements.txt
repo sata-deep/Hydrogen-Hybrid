@@ -3,6 +3,5 @@ torch>=1.10.0
 # Hugging Face libraries
 transformers>=4.25.0
 datasets>=2.5.0
-tokenizers>=0.12.0 # Often a dependency of transformers for FastTokenizers
-# For efficient data handling by `datasets`
+tokenizers>=0.12.0 
 pyarrow>=6.0.0
