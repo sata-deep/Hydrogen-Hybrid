@@ -71,7 +71,7 @@ config = GPT2Config(
     bos_token_id = tokenizer.cls_token_id if tokenizer.cls_token_id is not None else tokenizer.bos_token_id, # Use appropriate special tokens
     eos_token_id = tokenizer.sep_token_id if tokenizer.sep_token_id is not None else tokenizer.eos_token_id, # Use appropriate special tokens
 )
-# NOTE: In this code, the vocab_size, bos_token_id, eos_token_id are derived from the the tokenizer itself.
+# NOTE: In this code, the vocab_size, bos_token_id, eos_token_id are derived from the the tokenizer itself (Satadeep 2025..updated)
 
 model = GPT2LMHeadModel(config=config)
 
