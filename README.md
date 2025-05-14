@@ -9,7 +9,7 @@ Here are the **descriptions of the programs**:
 1. program U.py to predict to the hydrogen storage capacity for the materials from only features:
 2. set1.dat:[ TiAlN2, V2H2, Zr2TiAl, MgC, NLi]
 3. set2.dat: [NMn2Ti,MgCHF, CAlB, MgCHF, MgMnVTi ]
-copy these files to unknown.dat and run U.py
+->copy these files to unknown.dat and run U.py
 
 **The directory LLM contains:**
 1. Script to train the GPT-2 model and to save in a directory called TrainedModel. (python GPT-2.py)
