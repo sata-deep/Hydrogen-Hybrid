@@ -12,7 +12,7 @@ Here are the **descriptions of the programs**:
 copy these files to unknown.dat and run U.py
 
 **The directory LLM contains:**
-1. Script to train the GPT-2 model and to save in a directory called TrainedModel. (GPT-2.py)
-2. Generate chemical formulas based on the loaded model (Generators.py)
+1. Script to train the GPT-2 model and to save in a directory called TrainedModel. (python GPT-2.py)
+2. Generate chemical formulas based on the loaded model (python Generators.py)
 3. It should be noted that the generated materials depend on the parameters used.
 4. To generate more materials at a time, change the parameters.
