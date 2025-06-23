@@ -1,3 +1,7 @@
+#%%%%%%%%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%
+# This script uses all the raw 36 features in a 5-layer MLP
+#          Satadeep (2025)
+#%%%%%%%%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
