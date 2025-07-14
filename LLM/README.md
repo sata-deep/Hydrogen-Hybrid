@@ -19,14 +19,6 @@ python Generator.py
 
 If you use these scripts, please cite:
 
-@article{bhattacharjee2025hybrid,
-  title={A Hybrid Machine Learning Framework for Predicting Hydrogen Storage Capacities in Metal Hydrides: Unsupervised Feature Learning with Deep Neural Networks},
-  author={Bhattacharjee, Satadeep and Das, Pritam and Ram, Swetarekha and Lee, Seung-Cheol},
-  journal={ACS Applied Materials \& Interfaces},
-  volume={17},
-  number={20},
-  pages={29681--29694},
-  year={2025},
-  publisher={ACS Publications}
-}
+Bhattacharjee S, Das P, Ram S, Lee SC. A Hybrid Machine Learning Framework for Predicting Hydrogen Storage Capacities in Metal Hydrides: Unsupervised Feature Learning with Deep Neural Networks. 
 
+ACS Applied Materials & Interfaces. 2025 May 12;17(20):29681-94.
