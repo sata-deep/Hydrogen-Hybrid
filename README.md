@@ -1,11 +1,11 @@
-**OVERALL WORKFLOW AND METHOD**
-
-
-<img width="846" height="361" alt="Workflow" src="https://github.com/user-attachments/assets/b7ac1273-3a95-4ea6-9929-91abf07e757a" />
-
-
+**OVERALL WORKFLOW AND METHOD: **
 
 <img width="507" height="577" alt="workflow1" src="https://github.com/user-attachments/assets/6baa4eed-b5bd-44cd-a674-28301e5cda5b" />
+
+
+**Autoencoder+MLP Framework:**
+
+<img width="846" height="361" alt="Workflow" src="https://github.com/user-attachments/assets/b7ac1273-3a95-4ea6-9929-91abf07e757a" />
 
 
 
