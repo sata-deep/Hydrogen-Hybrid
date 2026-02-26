@@ -1,3 +1,13 @@
+
+<img width="834" height="398" alt="image" src="https://github.com/user-attachments/assets/24c816df-9114-4add-83e7-95a85707a163" />
+
+
+
+
+
+
+
+
 With this code, one can perform the hybrid machine learning, unsupervised learnig with Autoencoder (AE) and predict storage capacity via a MLP for a hydrogen storage data given in the file train.dat. 
 Here are the **descriptions of the programs**:
 1. B1.py: Uses AE+MLP approach
